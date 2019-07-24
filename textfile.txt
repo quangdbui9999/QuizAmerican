@@ -1,0 +1,13 @@
+Paraguay: Asuncion
+Chile: Santiago de Chile
+Argentina: Buenos Aires
+Suriname: Paramaribo
+Ecuador: Quito
+Colombia: Bogota
+French Guiana: Cayenne
+Bolivia: Sucre
+Guyana: Georgetown
+Uruguay: Montevideo
+Peru: Lima
+Venezuela: Caracas
+Brazil: Brasilia
